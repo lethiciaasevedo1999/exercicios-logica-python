@@ -1,5 +1,7 @@
-dataset = {}
-nome = ""
+dataset = {} #dicionário
+nome = "" #variável global --> Todas as funções podem acessar essa variável
+          #variável local --> Apenas funções específicas podem acessar a variável
+
 
 #Função Main()
 #Utilizada para definir qual é a função principal, vai indicar pro programa por 
